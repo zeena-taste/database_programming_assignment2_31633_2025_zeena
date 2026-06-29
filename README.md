@@ -39,7 +39,7 @@ The objective of this assignment is to gain practical experience in Oracle Datab
 
 ## Task 3 – Oracle Enterprise Manager
 
-(Insert OEM dashboard screenshot here once completed.)
+(I will Insert OEM dashboard screenshot here once completed.)
 
 ##### Challenges
 The main challenge was understanding how Oracle Container Databases (CDBs) and Pluggable Databases (PDBs) work. After learning how to switch containers and manage users inside a PDB, the remaining tasks became much easier.
